@@ -1,6 +1,7 @@
 # Jenkins-job-docker
 
-After setting up jenkins run the following command in build:
+
+
 
 
 
